@@ -1,4 +1,4 @@
-# MediVault
+# MANJAPAI
 
 MediVault is a secure, resumable medical file upload platform with per-user bucket management, multipart upload recovery, and operational dashboards.
 
